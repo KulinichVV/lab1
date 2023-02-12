@@ -2,9 +2,10 @@
 #include <string>
 
 using namespase std;
+int main()
 {
-	int main()
-		SetConsoleOutputCP(1251);
+	
+        SetConsoleOutputCP(1251);
 	cout << "Привет, мир!" << endl;
 
 	return 0;
