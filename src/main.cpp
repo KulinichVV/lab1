@@ -1,12 +1,15 @@
 #include <iostream>
+#include <windows.h>
 #include <string>
 
-using namespase std;
+using namespace std;
 int main()
 {
-	
-        SetConsoleOutputCP(1251);
+	SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+	string a = "Как дела?";
 	cout << "Привет, мир!" << endl;
+	cout << a << endl;
 
 	return 0;
 }
