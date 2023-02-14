@@ -8,7 +8,7 @@ int main()
 	cout << "Привет, мир!" << endl;
 	cout << a << endl;
 
-	return 0;
+	
 {
 	SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
