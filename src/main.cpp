@@ -22,6 +22,6 @@ int main()
 		cout << a << endl;
 	}
 
-	//комментарий
+	
 	return 0;
 }
